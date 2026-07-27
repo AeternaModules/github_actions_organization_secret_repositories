@@ -1,6 +1,6 @@
-variable "actions_organization_secret_repositorieses" {
+variable "actions_organization_secret_repositories" {
   description = <<EOT
-Map of actions_organization_secret_repositorieses, attributes below
+Map of actions_organization_secret_repositories, attributes below
 Required:
     - secret_name
     - selected_repository_ids
